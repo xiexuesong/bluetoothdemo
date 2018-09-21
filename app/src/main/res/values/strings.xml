@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">bluetoothdemo</string>
+    <string name="search_device">搜索设备</string>
+</resources>
